@@ -1,0 +1,7 @@
+name = "Julia_ABC"
+uuid = "868d9075-67ce-4b42-b643-503e70d62d7e"
+authors = ["Mahasen Dehideniya <mahasendehideniya@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
